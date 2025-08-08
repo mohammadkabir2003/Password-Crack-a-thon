@@ -34,4 +34,5 @@ The project involved cracking over 250 hashed passwords by applying diverse tech
 ---
 
 ## ⚠ Disclaimer
-This project was conducted **strictly in a controlled, educatio**
+This project was conducted **strictly in a controlled, educational environment** with legal permission.  
+It was intended solely for **cybersecurity research and skills development**.
